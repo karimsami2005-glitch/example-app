@@ -6,5 +6,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/hello', function (){
-    return 'Hello from VS Code!';
+    return 'Hello this is Febuary 10,2026!';
 });
